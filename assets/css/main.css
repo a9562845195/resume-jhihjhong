@@ -2001,6 +2001,7 @@
             size: 10em;
             text-shadow: 0 0 0.5px rgba(53, 184, 130, 0.25);
             padding: 0.5em 1.5em;
+            margin: 0.5em 1.5em;
         }
         
         #banner .button {
